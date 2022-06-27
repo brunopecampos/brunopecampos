@@ -12,8 +12,7 @@
 <p>I have experience with developing Mobile Apps and Backend. Also, I'm currently interested in Computer Networks, Security, Decentralized Applications and everything related to Bitcoin.</p>
 
 ---
-</div
-
 ### :fire: My most used languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopecampos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
