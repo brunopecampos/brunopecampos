@@ -9,7 +9,7 @@
 ---
 
 ### :man_technologist: About Me :
-<p>I have experience with developing Mobile Apps and Backend. Also, I'm currently interested in Computer Networks, Security, Decentralized Applications and everything related to Bitcoin.</p>
+<p>I have experience with developing Mobile Apps and Backend. Also, I'm currently interested in Computer Networks, Security, Decentralized Applications and everything related to computers.</p>
 
 ---
 ### :fire: My most used languages :
